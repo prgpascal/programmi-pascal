@@ -11,8 +11,7 @@ I testi degli esercizi sono disponibili su [programmipascal.it][1].
 ## FAQ
 - **Domanda 1**: Hey, io ho letto [Clean Code](https://www.amazon.it/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), e questi programmi sembrano 
 essere scritti da un sedicenne che non sa nulla di programmazione!  
-  - Anch'io l'ho letto, davvero un ottimo manuale!! E sì, sono d'accordo con te, sembrano proprio scritti da un sedicenne inesperto :/  
-La verità è che risalgono al 2008, a quel tempo avevo proprio sedici anni e sapevo poco o nulla di programmazione :-)
+  - Anch'io l'ho letto, davvero un ottimo manuale!! E sì, sono d'accordo con te, sembrano proprio scritti da un sedicenne inesperto :/  La verità è che risalgono al 2008, a quel tempo avevo proprio sedici anni e sapevo poco o nulla di programmazione :-)
 
 - **Domanda 2**: puoi aiutarmi con un programma?
   - Purtroppo, per mancanza di tempo, non mi è più possibile esaudire le richieste degli utenti. Mi dispiace :-(
@@ -22,6 +21,8 @@ La verità è che risalgono al 2008, a quel tempo avevo proprio sedici anni e sa
 del problema, contattandomi [qui][2]. Appena possibile aggiungerò il tuo nome ed il testo dell'esercizio anche su 
 [programmipascal.it][1].
 
+- **Domanda 4**: Dove sono i sorgenti dei giochi?
+	- Purtroppo, a causa di una svista di qualche anno fa, tutti i sorgenti dei giochi sono andati perduti irrimediabilmente. E' possibile però provarli scaricando direttamente i file eseguibili.
 
 ## Licenza
 	Copyright 2008 Riccardo Leschiutta
