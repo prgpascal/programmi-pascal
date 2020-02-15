@@ -38,6 +38,6 @@ del problema, contattandomi [qui][2]. Appena possibile aggiungerò il tuo nome e
 
 
 
-[1]:http://www.riccardoleschiutta.com/works/programmipascal/
-[2]:http://www.riccardoleschiutta.com/#contacts
+[1]:https://www.riccardoleschiutta.com/works/programmipascal
+[2]:https://www.riccardoleschiutta.com/#contacts
 [3]:https://it.wikipedia.org/wiki/Pascal_(linguaggio_di_programmazione)
