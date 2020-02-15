@@ -36,6 +36,6 @@ The description of each exercise is available [here][1].
 
 
 
-[1]:http://www.riccardoleschiutta.com/works/programmipascal/
-[2]:http://www.riccardoleschiutta.com/#contacts
+[1]:https://www.riccardoleschiutta.com/works/programmipascal
+[2]:https://www.riccardoleschiutta.com/#contacts
 [3]:https://en.wikipedia.org/wiki/Pascal_(programming_language)
