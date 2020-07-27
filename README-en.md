@@ -1,7 +1,7 @@
 # Programmi Pascal
 _The best Italian collection of programs written in Pascal._
 
-⚠ This project is no longer actively maintained.
+⚠ This project is no longer actively maintained.    
 ⚠ Questa è la versione in inglese del file README.md. Puoi trovare la versione in italiano [qui](README.md).
 
 ## What's this?
