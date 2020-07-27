@@ -2,7 +2,7 @@
 _La migliore raccolta italiana di programmi scritti in Pascal._
 
 ⚠ Questo progetto non è più mantenuto.    
-⚠ This is the italian version of README.md. You can find the english version [here](README-en.md).
+⚠ This is the Italian version of README.md. You can find the English version [here](README-en.md).
 
 ## Cos'è?
 E' una raccolta di esercizi di programmazione scritti in [Pascal][3].  
@@ -12,14 +12,11 @@ I testi degli esercizi sono disponibili [qui][1].
 ## FAQ
 - **Domanda 1**: Hey, io ho letto [Clean Code](https://www.amazon.it/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), e questi programmi sembrano 
 essere scritti da un sedicenne che non sa nulla di programmazione!  
-  - Anch'io l'ho letto, davvero un ottimo manuale!! E sì, sono d'accordo con te, sembrano proprio scritti da un sedicenne inesperto :/  La verità è che risalgono al 2008, a quel tempo avevo proprio sedici anni e sapevo poco o nulla di programmazione :-)
+  - Anch'io l'ho letto, davvero un ottimo manuale!! E sì, sono d'accordo con te, sembrano proprio scritti da un sedicenne inesperto :/  La verità è che risalgono al 2008, e a quel tempo avevo proprio sedici anni e sapevo poco o nulla di programmazione :-)
 - **Domanda 2**: puoi aiutarmi con un programma?
   - Purtroppo, per mancanza di tempo, non mi è più possibile esaudire le richieste degli utenti. Mi dispiace :-(
-- **Domanda 3**: Ho dei nuovi programmi, posso aggiungerli?
-  - Certamente :-)   Puoi fare il *push* dei tuoi programmi su un nuovo *branch* ed aprire una *merge request*. Ricordati di mandare anche il testo 
-del problema, contattandomi [qui][2]. Appena possibile aggiungerò il tuo nome ed il testo dell'esercizio anche sul [sito web dedicato][1].
-- **Domanda 4**: Dove sono i sorgenti dei giochi?
-	- Purtroppo, a causa di una svista di qualche anno fa, tutti i sorgenti dei giochi sono andati perduti irrimediabilmente. E' possibile però provarli scaricando direttamente i file eseguibili.
+- **Domanda 3**: Dove sono i sorgenti dei giochi?
+	- Purtroppo, a causa di una svista di qualche anno fa, tutti i sorgenti dei giochi sono andati perduti irrimediabilmente. E' possibile però provarli, scaricando i file eseguibili.
 
 ## Licenza
 	Copyright 2008 Riccardo Leschiutta
@@ -39,6 +36,6 @@ del problema, contattandomi [qui][2]. Appena possibile aggiungerò il tuo nome e
 
 
 
-[1]:http://www.riccardoleschiutta.com/works/programmipascal/
+[1]:http://www.riccardoleschiutta.com/works/programmipascal
 [2]:http://www.riccardoleschiutta.com/#contacts
 [3]:https://it.wikipedia.org/wiki/Pascal_(linguaggio_di_programmazione)
