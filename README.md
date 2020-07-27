@@ -36,6 +36,5 @@ essere scritti da un sedicenne che non sa nulla di programmazione!
 
 
 
-[1]:http://www.riccardoleschiutta.com/works/programmipascal
-[2]:http://www.riccardoleschiutta.com/#contacts
+[1]:https://www.riccardoleschiutta.com/works/programmipascal
 [3]:https://it.wikipedia.org/wiki/Pascal_(linguaggio_di_programmazione)
