@@ -1,7 +1,8 @@
 # Programmi Pascal
 _The best Italian collection of programs written in Pascal._
 
-**Attenzione:** Questa è la versione inglese del  file README.md. Puoi trovare la versione in italiano [qui](README.md).
+⚠ This project is no longer actively maintained.    
+⚠ Questa è la versione in inglese del file README.md. Puoi trovare la versione in italiano [qui](README.md).
 
 ## What's this?
 It's a collection of programs written in [Pascal][3].  
@@ -9,14 +10,12 @@ All source codes can be studied and downloaded for free.
 The description of each exercise is available [here][1].
 
 ## FAQ
-- **Question 1**: Hey, I've read [Clean Code](https://www.amazon.it/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), and this programs seem written by a dummy who has no programming skills!
-  - I've read it too and I think it's a really good book!! And you're right, but I wrote these programs on 2008, when I was 16 and had no programming skills :-)
+- **Question 1**: Hey, I've read [Clean Code](https://www.amazon.it/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), and these programs seem written by a buddy who has no programming skills!
+  - I've read it too, and I think it's an excellent book!! And you're right, but I wrote these programs in 2008 when I was 16 and had no programming skills :-)
 - **Question 2**: Can you help me solving an exercise?
   - I'm sorry, but I have not enough time :-(
-- **Question 3**: I've new programs, can I add them?
-  - Sure :-) You can *push* your programs on a new *branch* and open a *merge request*.  Please send the description of the exercise [here][2]. I'll add your name and the exercise on the [dedicated website][1] too.
-- **Question 4**: Where are the source codes of the games?
-	- I'm sorry but few years ago I definitively lost all the source codes of the games. Actually you can only try them, downloading the executable files.
+- **Question 3**: Where are the source codes of the games?
+	- I'm sorry but a few years ago I definitively lost all the source codes of the games. Actually you can only try them, downloading the executable files.
 
 ## License
 	Copyright 2008 Riccardo Leschiutta
@@ -37,5 +36,4 @@ The description of each exercise is available [here][1].
 
 
 [1]:https://www.riccardoleschiutta.com/works/programmipascal
-[2]:https://www.riccardoleschiutta.com/#contacts
 [3]:https://en.wikipedia.org/wiki/Pascal_(programming_language)
