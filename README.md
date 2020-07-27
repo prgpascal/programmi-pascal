@@ -1,7 +1,8 @@
 # Programmi Pascal
 _La migliore raccolta italiana di programmi scritti in Pascal._
 
-**Warning:** This is the italian version of README.md. You can find the english version [here](README-en.md).
+⚠ Questo progetto non è più mantenuto.    
+⚠ This is the italian version of README.md. You can find the english version [here](README-en.md).
 
 ## Cos'è?
 E' una raccolta di esercizi di programmazione scritti in [Pascal][3].  
